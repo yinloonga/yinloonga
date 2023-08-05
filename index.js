@@ -14,15 +14,12 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
-
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
----
-
-⏰ Updated on ${new Date().toUTCString()}
-
-![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)\
+| Year progress | Top Langs |
+| --- | --- |
+| <div>⏳ Year progress: <br><br>  ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % <br> <br>⏰ Updated on ${new Date().toUTCString()}</div> | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) |\
 `
 
 console.log(readme)
+
+### Hi there 👋
+
