@@ -1,5 +1,5 @@
-### Hi there 👋![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)
-
+### Hi there 👋
+![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)
 <!--
 **yinloonga/yinloonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
