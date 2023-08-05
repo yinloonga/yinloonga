@@ -10,15 +10,14 @@ function generateProgressBar() {
     const progressBar =
       '█'.repeat(passedProgressBarIndex) +
       '▁'.repeat(progressBarCapacity - passedProgressBarIndex)
-    return `{ ${progressBar} }`
+    return `{${progressBar}`
 }
 
 const readme = `\
 ### Hi there 👋
 | Year progress | Top Langs |
 | --- | --- |
-| <div>⏳ Year progress: <br> ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % <br> <br>⏰ Updated on ${new Date().toUTCString()}</div> 
-| ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) |\
+| <div>⏳ Year progress: <br> ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % <br> <br>⏰ Updated on ${new Date().toUTCString()}</div> | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) |\
 `
 
 console.log(readme)
