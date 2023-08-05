@@ -22,6 +22,3 @@ const readme = `\
 \`
 
 console.log(readme)
-
-### Hi there 👋
-
