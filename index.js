@@ -13,7 +13,7 @@ function generateProgressBar() {
     return `${progressBar}`
 }
 
-const beijingTime = new Date().toLocaleString('en-US', { timeZone: 'Asia/Shanghai', hour12: false })
+const beijingTime = new Date().toLocaleString('en-US', { timeZone: 'Asia/Shanghai' })
 
 const readme = `\
 ### Hi there 👋
