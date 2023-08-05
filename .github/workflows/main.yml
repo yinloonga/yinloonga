@@ -23,4 +23,6 @@ jobs:
           git config user.name 'yinloonga'
           git config user.email 'yinloonga@gmail.com'
           git commit -am "bot: update README.md automatically"
-          git push
+
+    - name: Profile Readme Development Stats
+      uses: anmol098/waka-readme-stats@V3
