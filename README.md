@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)
