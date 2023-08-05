@@ -18,7 +18,7 @@ const readme = `\
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
-![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)
-\`
+![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)\
+`
 
 console.log(readme)
