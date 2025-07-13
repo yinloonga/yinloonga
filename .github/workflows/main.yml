@@ -16,8 +16,6 @@ jobs:
       with:
         node-version: '20.x'       # ✅ 使用受支持的 LTS 版本
         cache: 'npm'               # ✅ 缓存 node_modules 以加快运行
-    - name: Install dependencies
-      run: npm install            # ✅ 确保安装依赖
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
