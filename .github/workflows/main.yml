@@ -15,7 +15,6 @@ jobs:
       uses: actions/setup-node@v4  # ✅ 使用最新版
       with:
         node-version: '20.x'       # ✅ 使用受支持的 LTS 版本
-        cache: 'npm'               # ✅ 缓存 node_modules 以加快运行
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
