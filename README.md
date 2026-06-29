@@ -1,4 +1,4 @@
 ### Hi there 👋
 | Year progress | Top Langs | WakaTime (One Month) |
 | --- | --- | --- |
-| <div>⏳ Year progress: <br> ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 48.92 % <br> <br>⏰ Updated on 6/28/2026, 21:28:20 <br>![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)</div> | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) | <img src="https://wakatime.com/share/@yinloonga/f920780c-f365-4860-b2d0-04bf2840a3f5.svg" width="80%" height="80%" /> |
+| <div>⏳ Year progress: <br> ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ 49.08 % <br> <br>⏰ Updated on 6/29/2026, 11:32:17 <br>![Progress Bar CI](https://github.com/yinloonga/yinloonga/actions/workflows/main.yml/badge.svg)</div> | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yinloonga&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR) | <img src="https://wakatime.com/share/@yinloonga/f920780c-f365-4860-b2d0-04bf2840a3f5.svg" width="80%" height="80%" /> |
